@@ -1,0 +1,5 @@
+﻿  array.cpp
+d:\lugoo\array\array\array.cpp(9): warning C4101: “a”: 未引用的局部变量
+d:\lugoo\array\array\array.cpp(10): warning C4101: “b”: 未引用的局部变量
+  array.vcxproj -> d:\lugoo\array\Debug\array.exe
+  array.vcxproj -> d:\lugoo\array\Debug\array.pdb (Partial PDB)
